@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# python3 virtualenvironment
+exposition/
+
+# IDE configurations
+.vscode/
