@@ -130,3 +130,6 @@ dmypy.json
 
 # python3 virtualenvironment
 exposition/
+
+# IDE configurations
+.vscode/
